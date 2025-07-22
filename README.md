@@ -23,7 +23,7 @@ This project is a **comprehensive Power BI dashboard** that analyzes Adidas sale
 ---
 
 🔗 **LinkedIn Project Post:**
-[View on LinkedIn](https://www.linkedin.com/in/your-profile-name) <!-- Replace with your actual post URL -->
+https://www.linkedin.com/posts/aditya-5bb172321_powerbi-dataanalytics-datavisualization-activity-7353284140223340544-ikQ3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFcI98BOZP2Vg9FMjdLt7ZIjfQ5G6ySzOc
 
 📥 Feel free to fork, clone, or connect for collaboration!
 
